@@ -1,5 +1,4 @@
-1. `git clone https://github.com/itspranaw/Face-Blur-Cg.git`
-
+1. clone
 Create and activate the virtual environment: (Recommended)
 
 2. `python -m venv env`
